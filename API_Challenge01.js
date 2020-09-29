@@ -20,9 +20,9 @@ let maxFactsAllowed = 5;    // Maximum facts allowed
     // likely that the "tongue" will extend off the bottom of the webpage.
 
 // Event Listeners
-btnMore.addEventListener('click', moreFacts);   // listening +facts btn
-btnLess.addEventListener('click', fewerFacts);  // listening -facts btn
-btnGetFacts.addEventListener('click', getFacts);// listening get facts btn
+btnMore.addEventListener('click', moreFacts);       // listening +facts btn
+btnLess.addEventListener('click', fewerFacts);      // listening -facts btn
+btnGetFacts.addEventListener('click', getFacts);    // listening get-facts btn
 
 
 //   *****   FETCH RESULTS   *****
