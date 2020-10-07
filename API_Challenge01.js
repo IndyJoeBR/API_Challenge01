@@ -73,6 +73,7 @@ function displayResultsLoop(json) {
 };  //  END OF displayResultsLoop Function
 
 
+
 //   *****   BUTTON FUNCTIONS   *****
 //  Get Facts button
 function getFacts(e) {
